@@ -494,7 +494,7 @@ cv_results['test_accuracy'].mean()
 cv_results['test_f1'].mean()
 # 0.5860469004165128
 cv_results['test_roc_auc'].mean()
-# 0.8483469185726437a
+# 0.8483469185726437
 
 
 
